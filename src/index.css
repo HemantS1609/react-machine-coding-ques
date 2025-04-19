@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #212121;
+  color: whitesmoke;
+}
+.child-component-container{
+  justify-content: center;
+  display: flex;
+}

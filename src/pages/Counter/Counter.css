@@ -1,0 +1,12 @@
+.counter-container{
+
+    .button-block{
+        display: flex;
+        gap: 20px;
+
+        button{
+            padding: 10px;
+            cursor: pointer;
+        }
+    }
+}
