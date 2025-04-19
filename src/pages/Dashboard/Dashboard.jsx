@@ -25,6 +25,11 @@ const questions = [
     route: "/parent-child-communication",
     title: "Parent-Child Communication",
   },
+  {
+    id: 11,
+    route: "/otp-input",
+    title: "OTP Input",
+  },
 ];
 const Dashboard = () => {
   const navigate = useNavigate();
